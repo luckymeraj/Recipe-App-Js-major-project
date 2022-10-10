@@ -248,6 +248,9 @@ body{
     -moz-transition: all 0.4s linear;
     -ms-transition: all 0.4s linear;
     -o-transition: all 0.4s linear;
+    background-color: rgb(243, 128, 5);
+   text-decoration: none;
+    border-radius: 10px;
 }
 .recipe-link a:hover{
     opacity: 0.8;
